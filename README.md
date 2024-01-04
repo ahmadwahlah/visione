@@ -1,7 +1,88 @@
-visione
-=======
+# Visione
 
-A custom theme based on \_tw
+The VisiOne GitHub repo features a dynamic brand-centric website powered by WordPress, HTML, CSS, and JavaScript. Utilizing GSAP for animations and Tailwind CSS for styling, explore the code for an innovative fusion of technologies, crafting brands that challenge norms and inspire users to live their best lives.
+
+## Technologies Used
+
+- **WordPress:** Robust content management for scalability.
+- **HTML, CSS, JavaScript:** Core web technologies for a seamless website.
+- **GSAP (GreenSock Animation Platform):** Integration for captivating animations.
+- **Tailwind CSS:** Efficient and responsive styling for a professional interface.
+
+## Screenshots
+
+***Home Page***
+![Signin](/screenshots/home.png)
+##
+![Signup](/screenshots/home1.png)
+##
+![Signup](/screenshots/home2.png)
+##
+![Signup](/screenshots/home3.png)
+##
+![Signup](/screenshots/home4.png)
+##
+![Signup](/screenshots/home5.png)
+##
+![Signup](/screenshots/home6.png)
+##
+![Signup](/screenshots/home7.png)
+##
+
+***Navigation Menu***
+![Signup](/screenshots/navmenu.png)
+##
+
+***About us Page***
+![Signup](/screenshots/about.png)
+##
+![Signup](/screenshots/about1.png)
+##
+![Signup](/screenshots/about2.png)
+##
+![Signup](/screenshots/about3.png)
+##
+![Signup](/screenshots/about4.png)
+##
+![Signup](/screenshots/about5.png)
+##
+
+***Brands Page***
+![Signup](/screenshots/brands.png)
+##
+![Signup](/screenshots/brands1.png)
+##
+![Signup](/screenshots/brands2.png)
+##
+![Signup](/screenshots/brands3.png)
+##
+
+***Sustainability Page***
+![Signup](/screenshots/sustain.png)
+##
+![Signup](/screenshots/sustain1.png)
+##
+![Signup](/screenshots/sustain2.png)
+##
+![Signup](/screenshots/sustain3.png)
+##
+![Signup](/screenshots/sustain4.png)
+##
+
+***Impact Page***
+![Signup](/screenshots/impact.png)
+##
+![Signup](/screenshots/impact1.png)
+##
+![Signup](/screenshots/impact2.png)
+##
+![Signup](/screenshots/impact3.png)
+##
+
+***Contact Page***
+![Signup](/screenshots/contact.png)
+##
+![Signup](/screenshots/contact1.png)
 
 ## Quickstart
 
@@ -53,3 +134,7 @@ Or [deploy with the tool of your choice](https://underscoretw.com/docs/deploymen
   Learn strategies for using Tailwind in theme-specific custom blocks
 * [Setting Up Browsersync](https://underscoretw.com/docs/browsersync/)  
   Add live reloads and synchronized cross-device testing to your workflow
+
+## License
+
+This project is licensed under the MIT License.
