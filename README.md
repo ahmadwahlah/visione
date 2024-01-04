@@ -137,4 +137,4 @@ Or [deploy with the tool of your choice](https://underscoretw.com/docs/deploymen
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU General Public License v2.0.
